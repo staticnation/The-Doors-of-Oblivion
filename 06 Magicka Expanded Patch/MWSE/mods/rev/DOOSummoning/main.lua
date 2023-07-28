@@ -1,6 +1,6 @@
 local framework = include("OperatorJack.MagickaExpanded.magickaExpanded")
 
-require("DOOSummoning.effects.basicDOOSummonEffects")
+require("rev.DOOSummoning.effects.basicDOOSummonEffects")
 
 local spellIds = {
   auroran = "bs_summon_auroran",
